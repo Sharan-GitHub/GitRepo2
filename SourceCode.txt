@@ -9,3 +9,4 @@ Mine04
 Mine05
 Mine06
 Mine07
+Mine08
